@@ -1,6 +1,0 @@
-nome=input('qual é o seu nome?')
-print('olá',nome,'!','prazer em te conhecer')
-dia=input('qual é o seu dia de nascimento?')
-mes=input('qual é o seu mês?')
-ano=input('qual é o seu ano?')
-print('sua data de nascimento é',dia,'de',mes,'de',ano,',correto?')
